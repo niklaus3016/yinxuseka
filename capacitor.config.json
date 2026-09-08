@@ -1,9 +1,0 @@
-{
-  "appId": "com.yinxuseka.app",
-  "appName": "印序色卡",
-  "webDir": "dist",
-  "bundledWebRuntime": false,
-  "server": {
-    "androidScheme": "https"
-  }
-}

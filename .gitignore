@@ -31,3 +31,11 @@ yarn-error.log*
 android/app/src/main/assets/public/
 android/app/src/main/assets/capacitor.config.json
 android/app/src/main/assets/capacitor.plugins.json
+
+# Android signing（签名密钥严禁入库）
+*.keystore
+*.jks
+keystore.properties
+
+# 参考工程文件（仅本地对照用）
+qitaapp/
