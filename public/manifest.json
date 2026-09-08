@@ -1,0 +1,32 @@
+{
+  "short_name": "印序色卡",
+  "name": "印序色卡",
+  "id": "com.yinxuseka.app",
+  "version": "1.0",
+  "package_name": "com.yinxuseka.app",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "高颜值高级色卡灵感工具，收录全球经典流行高级色彩。"
+}
